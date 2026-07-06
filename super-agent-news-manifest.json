@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0?oc=5"
+    },
+    {
+      "source": "memeburn.com",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "mit.edu",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    },
+    {
+      "source": "scmagazine.com",
+      "title": "Shell injection flaw found in 10 of 11 open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5"
+    },
+    {
+      "source": "cybernews.com",
+      "title": "Best AI Tools for eCommerce 2026",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56cTZNNkg4aXpPQkdReU5abjU3dk5tb1BjcFhlelZrWmExWjlvOFBlLWpWaDVkTjNCTnpuQkwxc1pRTjR2VHVnT0UzQl9ndVBUeURiaVdSZ29Za0Nxak9GWUFTQlM5dGYxR2tr?oc=5"
+    },
+    {
+      "source": "anthropic.com",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from title + niche_landing + ecommerce operators + generated_at, selected design_architecture=workflow-command-center, typography=Satoshi, components=[workflow-playbook-timeline, gapless-bento-grid, source-card-dossier], GSAP paradigms=[pinned-chapter-scroll, hover-physics]. AIDA Check: Hero captures operational pain, proof builds credibility, desire shown via workflows and cache reuse, action via CTAs. Font Selection: Satoshi for operational clarity. Hero Math Verification: H1 max-width supports 2\u20133 lines at clamp sizes. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: scroll pin + hover physics guarded. Label Sweep & Button Check: all CTAs high-contrast, primary links verified.",
+  "generated_at": "2026-07-06T13:16:44.204530+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A premium niche landing page for ecommerce operators who live inside order dashboards, inboxes, and admin tools. This page shows how Super\u2019s personal AI agents operate real computers, reuse a computer-use cache for repeated workflows, and reduce the drag of order monitoring, customer support triage, and repetitive back-office tasks. Includes a long-form field guide, concrete ecommerce workflows, structured data, and market context grounded in current reporting."
+}
